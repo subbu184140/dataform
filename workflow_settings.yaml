@@ -1,0 +1,5 @@
+defaultProject: valencia-467303-k6
+defaultLocation: EU
+defaultDataset: test_ds
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
